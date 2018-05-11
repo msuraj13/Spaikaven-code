@@ -1,0 +1,18 @@
+<html>
+<head><h1 align="Center">Soviet Resistance network</h1>
+<body>
+<table>
+<tr>
+<td>
+Enter Username:<input type="Username" name=uname><br>
+Enter Password:<input type="Password" name=pwd><br>
+<input type="Submit" value="signup">
+</tr>
+</td>
+</table>
+</body>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+
+</html>
